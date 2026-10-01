@@ -47,3 +47,14 @@ Meesho-Project/
 │
 └── README.md
 ```
+
+## Requirements
+
+- Python 3
+- pytest
+
+Install pytest if required:
+
+```powershell
+python -m pip install pytest
+```
